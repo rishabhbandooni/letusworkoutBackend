@@ -1,0 +1,25 @@
+# Ignore .env file (environment variables)
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore any file with .DS_Store extension (macOS)
+.DS_Store
+
+# Ignore any file with .env.local extension (Next.js local environment variables)
+.env.local
+
+# Ignore logs and build folders
+logs/
+build/
+
+# Ignore editor specific files (VS Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore Yarn lock file
+yarn.lock
